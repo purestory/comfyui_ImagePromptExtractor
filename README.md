@@ -4,7 +4,7 @@
 
 This is a ComfyUI node that automatically extracts prompt information from images.
 
-![예시 이미지]([https://raw.githubusercontent.com/purestory/comfyui_ImagePromptExtractor/refs/heads/main/1.png])
+![예시 이미지](https://raw.githubusercontent.com/purestory/comfyui_ImagePromptExtractor/refs/heads/main/1.png)
 ## 설치 / Installation
 
 ### 자동 설치 / Automatic Installation
